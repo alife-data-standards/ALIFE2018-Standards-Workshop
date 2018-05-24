@@ -26,7 +26,7 @@ There will be several invited talks, each to describe a particular ALIFE system 
 
 Speakers:
 - Charles Ofria (Avida)
-- Penny Faulkner (Artificial Chemistries) 
+- Penny Faulkner Rainford (Artificial Chemistries) 
 - TBD
 
 ### Breakout Groups (45 minutes)
