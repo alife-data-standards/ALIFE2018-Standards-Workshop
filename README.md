@@ -1,9 +1,11 @@
 # Developing Software Standards for the Artificial Life Community
 
-The Artificial Life (ALIFE) community is awash with disparate software systems, many of which produce data about the same underlying processes. This results in duplicated effort in developing analysis tools and visualizations. 
-This workshop aims to start a community-level discussion about developing digital standards for common data types (*e.g.*, genomes, phylogenies, *etc.*). 
+[![DOI](https://zenodo.org/badge/134617495.svg)](https://zenodo.org/badge/latestdoi/134617495)
 
-This workshop aims to start a conversation about identifying best practices and developing data and tool standards amongst individuals who design, develop, and use a wide range of artificial life systems, including artificial chemistries, abstract ecologies, evolutionary systems, and a range of other communities who express interest. 
+The Artificial Life (ALIFE) community is awash with disparate software systems, many of which produce data about the same underlying processes. This results in duplicated effort in developing analysis tools and visualizations.
+This workshop aims to start a community-level discussion about developing digital standards for common data types (*e.g.*, genomes, phylogenies, *etc.*).
+
+This workshop aims to start a conversation about identifying best practices and developing data and tool standards amongst individuals who design, develop, and use a wide range of artificial life systems, including artificial chemistries, abstract ecologies, evolutionary systems, and a range of other communities who express interest.
 
 ## What can standards do for you?
 
@@ -35,13 +37,13 @@ Speakers:
 
 ### Breakout Groups (45 minutes)
 
-We will present a preliminary set of minimal standards for **phylogenies** and **genomes**. Participants will breakout into groups to discuss what might be missing in our presented standards.  
+We will present a preliminary set of minimal standards for **phylogenies** and **genomes**. Participants will breakout into groups to discuss what might be missing in our presented standards.
 
-Each group will be given index cards to jot down system/data features that would benefit the standards. For example, how should mutations along a lineage be represented?  
+Each group will be given index cards to jot down system/data features that would benefit the standards. For example, how should mutations along a lineage be represented?
 
 ### Group Coalescence (45 minutes)
 
-After within-group discussion of standards, we will reconvene to discuss what changes are necessary to make the standards work for everyone. During this larger group discussion, we will categorize index cards from each breakout group as necessary, desirable, or unnecessary for inclusion in the standards. 
+After within-group discussion of standards, we will reconvene to discuss what changes are necessary to make the standards work for everyone. During this larger group discussion, we will categorize index cards from each breakout group as necessary, desirable, or unnecessary for inclusion in the standards.
 
 ## Example Standard For a Phylogeny
 
